@@ -12,17 +12,14 @@
 
 [View란 무엇일까요?](https://github.com/core-CS/CS-study/tree/main/DataBase/1-5.View%EB%9E%80)
 
-[조인(Join)은 무엇이며 어떤 종류들이 있을까요?]()
+[조인(Join)은 무엇이며 어떤 종류들이 있을까요?](https://github.com/core-CS/CS-study/tree/main/DataBase/1-6.Join%EC%9D%B4%EB%9E%80)
 
-[데이터베이스 이상(Anomaly)현상이란?]()
+[데이터베이스 이상(Anomaly)현상이란?](https://github.com/core-CS/CS-study/tree/main/DataBase/1-7.Anomaly%ED%98%84%EC%83%81%EC%9D%B4%EB%9E%80)
 
-[정규화란 무엇일까요?]()
+[정규화란 무엇일까요?](https://github.com/core-CS/CS-study/tree/main/DataBase/1-8.%EC%A0%95%EA%B7%9C%ED%99%94%EB%9E%80)
 
-[RDBMS와 NoSQL의 차이점은 무엇일까요?]()
+[RDBMS와 NoSQL의 차이점은 무엇일까요?](https://github.com/core-CS/CS-study/tree/main/DataBase/1-9.RDBMS%EC%99%80NoSQL%EC%B0%A8%EC%9D%B4)
 
-[Full table scan이란?]()
-
-[카디널리티(Cardinality)란?]()
 
 
 
@@ -57,11 +54,9 @@
 
 [인덱스를 구현하는 자료구조에 대해서 설명해 주세요.](https://github.com/core-CS/CS-study/tree/main/DataBase/3-6.%EC%9D%B8%EB%8D%B1%EC%8A%A4%EA%B5%AC%ED%98%84%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)
 
-[인덱스의 특징에 대해 아는대로 말해보세요.]()
+[인덱스의 특징에 대해 아는대로 말해보세요.](https://github.com/core-CS/CS-study/tree/main/DataBase/3-7.%EC%9D%B8%EB%8D%B1%EC%8A%A4%EC%9D%98%ED%8A%B9%EC%A7%95)
 
-[인덱스를 어떤 칼럼에 사용하는게 좋을까요?]()
-
-[인덱스를 거는 칼럼 정하는 기준은 무엇인가요?]()
+[인덱스를 어떤 칼럼에 사용하는게 좋을까요?](https://github.com/core-CS/CS-study/tree/main/DataBase/3-8.%EC%96%B4%EB%96%A4%EC%B9%BC%EB%9F%BC%EC%9D%84%EC%8D%A8%EC%95%BC%ED%95%A0%EA%B9%8C)
 
 
 ### MySQL
@@ -76,29 +71,33 @@
 
 [MySQL에서 기본키를 설정하지 않고 테이블을 만들면 어떻게 될까요?](https://github.com/core-CS/CS-study/tree/main/DataBase/4-5.%EA%B8%B0%EB%B3%B8%ED%82%A4%EB%A5%BC%20%EC%84%A4%EC%A0%95%ED%95%98%EC%A7%80%20%EC%95%8A%EC%9D%80%20%ED%85%8C%EC%9D%B4%EB%B8%94)
 
-[MySQL, Oracle의 Default 아이솔레이션 레벨 전략이 무엇인지 설명해 주세요.]()
+[MySQL, Oracle의 Default 아이솔레이션 레벨 전략이 무엇인지 설명해 주세요.](https://github.com/core-CS/CS-study/tree/main/DataBase/4-6.%EC%95%84%EC%9D%B4%EC%86%94%EB%A0%88%EC%9D%B4%EC%85%98%20%EB%A0%88%EB%B2%A8%20%EC%A0%84%EB%9E%B5)
 
 
 ### NoSQL (Redis & MongoDB)
 
-[대표적인 NoSQL은 무엇이 있나요?]()
+[대표적인 NoSQL은 무엇이 있나요?](https://github.com/core-CS/CS-study/tree/main/DataBase/5-1.NoSQL)
 
-[Redis는 어떤 식으로 저장되는지 설명해 주세요.]()
+[Redis는 어떤 식으로 저장되는지 설명해 주세요.](https://github.com/core-CS/CS-study/tree/main/DataBase/5-2.Redis%20%EC%A0%80%EC%9E%A5%20%EB%B0%A9%EC%8B%9D)
 
-[Redis의 TTL은 어떤 식으로 동작하나요?]()
+[Redis의 TTL은 어떤 식으로 동작하나요?](https://github.com/core-CS/CS-study/tree/main/DataBase/5-3.Redis%20TTL)
 
-[메모리가 꽉 찼을 경우 Redis는 어떻게 동작되나요?]()
+[메모리가 꽉 찼을 경우 Redis는 어떻게 동작되나요?](https://github.com/core-CS/CS-study/tree/main/DataBase/5-4.%EB%A9%94%EB%AA%A8%EB%A6%AC%EA%B0%80%20%EA%BD%89%20%EC%B0%BC%EC%9D%84%20%EA%B2%BD%EC%9A%B0%20Redis%20%EC%9E%91%EB%8F%99%EB%B0%A9%EC%8B%9D)
 
-[Redis와 MongoDB의 차이점은 무엇인가요?]()
+[Redis와 MongoDB의 차이점은 무엇인가요?](https://github.com/core-CS/CS-study/tree/main/DataBase/5-5.Redis%EC%99%80%20MangoDB)
 
-[Redis가 지원하는 데이터 구조에는 어떤 것들이 있나요?]()
+[Redis가 지원하는 데이터 구조에는 어떤 것들이 있나요?](https://github.com/core-CS/CS-study/tree/main/DataBase/5-6.Redis%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B5%AC%EC%A1%B0)
 
 
 ### Connection Pool
 
-[DB Connection Pool은 무엇이며 왜 필요할까요?]()
+[DB Connection Pool은 무엇이며 왜 필요할까요?](https://github.com/core-CS/CS-study/tree/main/DataBase/6-1.DBConnectionPool)
 
-[HikariCP란 무엇일까요?]()
+[HikariCP란 무엇일까요?](https://github.com/core-CS/CS-study/tree/main/DataBase/6-2.HikariCP)
 
-[HikariCP의 동작 원리에 대해 설명해주세요]()
+### 그 외의 내용
+
+[Java + QueryDSL 이란?](https://github.com/core-CS/CS-study/tree/main/DataBase/QueryDSL)
+
+[Scailability](https://github.com/core-CS/CS-study/tree/main/DataBase/SCALABILITY)
 
